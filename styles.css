@@ -1,0 +1,23 @@
+body { background-color: purple;
+       text-align: center;
+    
+}
+
+
+h1 {color: yellow;
+
+}
+
+ul {list-style-type: upper-roman;
+    list-style-position: inside;
+    color: yellowgreen;
+
+}
+
+a {color: yellowgreen;
+   font-size: 18px;
+   font-weight: bold;
+   text-decoration: none;
+   
+
+}
